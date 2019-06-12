@@ -1,5 +1,10 @@
 def using_times
-	#your code here
+  trick = 7
+ 7.times do 
+   puts "Wingardium Leviosa"
+   trick = trick - 1
+ end 
+ 
 end
 
 
